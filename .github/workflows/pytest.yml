@@ -27,11 +27,14 @@ jobs:
           # Dev deps are optional
           if [ -f requirements-dev.txt ]; then pip install -r requirements-dev.txt; fi
 <<<<<<< HEAD
+<<<<<<< HEAD
           pip install pytest
       - name: Lint data
         run: |
             python tools/lint_data.py okun-law/data/raw/labor_panel_sample.csv
 =======
+=======
+>>>>>>> parent of 1dd2c06 (Update pytest.yml)
           # Ensure pytest is available even if not listed
           python - <<'PY'
           import importlib, sys, subprocess
@@ -39,6 +42,9 @@ jobs:
               subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'pytest'])
           PY
 
+<<<<<<< HEAD
+>>>>>>> parent of 1dd2c06 (Update pytest.yml)
+=======
 >>>>>>> parent of 1dd2c06 (Update pytest.yml)
       - name: Run tests
         run: |

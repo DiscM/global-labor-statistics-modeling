@@ -1,0 +1,161 @@
+country,year,unemployment_rate,gdp_growth,labor_force_participation,gdp_per_capita,region
+United States,1991,6.7,6.92,62.64,45123.58,North America
+United States,1992,6.83,-0.83,62.89,45011.75,North America
+United States,1993,4.79,3.99,62.41,47505.85,North America
+United States,1994,4.41,4.91,62.78,49353.11,North America
+United States,1995,2.98,5.8,62.84,51810.35,North America
+United States,1996,2.5,2.21,63.11,53018.71,North America
+United States,1997,2.5,6.64,63.25,56802.2,North America
+United States,1998,2.5,-0.22,63.56,56971.07,North America
+United States,1999,2.5,1.74,63.35,58100.99,North America
+United States,2000,2.5,0.51,63.65,58197.45,North America
+United States,2001,2.5,4.58,63.56,60068.28,North America
+United States,2002,2.5,1.92,63.5,61059.82,North America
+United States,2003,2.5,5.95,63.14,65411.34,North America
+United States,2004,2.92,-2.62,63.09,63767.2,North America
+United States,2005,2.78,-0.73,63.11,62857.76,North America
+United States,2006,2.99,0.4,63.39,63074.36,North America
+United States,2007,2.5,2.25,63.25,64171.58,North America
+United States,2008,3.04,-0.71,63.23,63630.53,North America
+United States,2009,2.5,2.76,63.65,65213.64,North America
+United States,2010,2.5,1.08,63.4,66745.61,North America
+United States,2011,2.5,4.79,63.36,70438.69,North America
+United States,2012,2.5,5.14,63.28,72872.69,North America
+United States,2013,2.5,4.85,63.03,77057.11,North America
+United States,2014,2.5,3.15,63.0,79274.54,North America
+United States,2015,2.5,4.98,62.88,83112.27,North America
+United States,2016,2.5,6.17,62.0,87092.43,North America
+United States,2017,2.5,2.94,62.52,89999.17,North America
+United States,2018,2.96,-0.05,62.52,89776.49,North America
+United States,2019,2.92,2.25,62.25,90876.45,North America
+United States,2020,2.5,2.01,62.0,91907.24,North America
+United States,2021,2.5,3.26,62.22,95530.74,North America
+United States,2022,2.5,5.69,61.76,100290.72,North America
+Canada,1991,8.42,-1.4,66.48,12087.07,North America
+Canada,1992,6.36,5.97,66.57,12893.97,North America
+Canada,1993,6.4,0.83,66.64,13090.33,North America
+Canada,1994,5.56,0.42,66.33,13072.74,North America
+Canada,1995,4.34,3.7,66.21,13532.98,North America
+Canada,1996,2.5,5.28,66.67,14081.3,North America
+Canada,1997,2.76,0.54,66.82,14037.12,North America
+Canada,1998,2.5,1.89,67.08,14378.84,North America
+Canada,1999,2.64,0.2,66.97,14397.74,North America
+Canada,2000,2.5,2.38,67.09,14806.8,North America
+Canada,2001,2.5,3.39,67.01,15089.58,North America
+Canada,2002,2.5,0.83,67.02,15302.23,North America
+Canada,2003,2.5,4.46,66.99,15833.31,North America
+Canada,2004,2.5,5.09,66.66,16463.2,North America
+Canada,2005,2.97,1.04,66.89,16355.3,North America
+Canada,2006,2.54,1.85,67.08,16714.72,North America
+Canada,2007,2.63,0.41,66.91,16408.05,North America
+Canada,2008,2.5,0.22,67.2,16616.63,North America
+Canada,2009,2.8,-0.73,67.23,16257.28,North America
+Canada,2010,3.82,-3.55,67.27,15583.64,North America
+Canada,2011,5.43,-5.39,67.1,14604.88,North America
+Canada,2012,4.47,1.29,67.26,14795.17,North America
+Canada,2013,4.42,0.63,67.25,14664.28,North America
+Canada,2014,3.66,1.8,66.73,14832.09,North America
+Canada,2015,2.5,3.39,67.15,15587.33,North America
+Canada,2016,2.5,1.34,67.75,15744.87,North America
+Canada,2017,2.5,-0.32,67.34,15482.52,North America
+Canada,2018,2.5,2.78,67.41,15989.2,North America
+Canada,2019,2.5,0.06,67.33,15891.87,North America
+Canada,2020,2.7,-0.14,67.29,15922.1,North America
+Canada,2021,2.5,5.0,66.96,16582.35,North America
+Canada,2022,2.5,1.48,67.24,16668.63,North America
+Germany,1991,5.28,6.06,58.37,29053.65,Europe
+Germany,1992,4.14,4.57,58.26,30204.67,Europe
+Germany,1993,3.72,3.03,58.03,31020.86,Europe
+Germany,1994,2.97,2.52,58.13,31491.37,Europe
+Germany,1995,2.5,0.53,58.15,31996.6,Europe
+Germany,1996,3.25,-3.56,58.42,30811.78,Europe
+Germany,1997,4.77,-3.11,57.99,30277.13,Europe
+Germany,1998,4.25,0.56,58.0,30440.88,Europe
+Germany,1999,3.33,3.88,57.95,32024.98,Europe
+Germany,2000,2.5,4.2,57.99,33338.78,Europe
+Germany,2001,2.5,1.98,58.13,34013.06,Europe
+Germany,2002,2.5,5.04,58.26,36020.45,Europe
+Germany,2003,2.64,-0.92,58.77,35343.08,Europe
+Germany,2004,2.5,5.43,58.89,36884.62,Europe
+Germany,2005,2.5,0.47,58.72,37431.5,Europe
+Germany,2006,2.5,4.53,58.78,39741.2,Europe
+Germany,2007,2.5,5.08,58.47,42032.71,Europe
+Germany,2008,2.5,4.03,58.68,44048.59,Europe
+Germany,2009,2.5,1.36,58.78,44787.49,Europe
+Germany,2010,2.5,1.24,58.82,45985.41,Europe
+Germany,2011,2.5,8.71,58.5,49834.94,Europe
+Germany,2012,2.5,-0.14,58.62,49310.35,Europe
+Germany,2013,2.5,3.91,59.08,52133.07,Europe
+Germany,2014,2.5,4.99,58.93,54880.68,Europe
+Germany,2015,2.5,2.68,59.23,56175.04,Europe
+Germany,2016,2.5,7.0,59.34,60370.84,Europe
+Germany,2017,2.5,-0.5,59.32,60266.05,Europe
+Germany,2018,2.5,2.86,59.18,63049.32,Europe
+Germany,2019,2.5,4.26,59.09,66206.9,Europe
+Germany,2020,2.5,5.82,58.98,70254.66,Europe
+Germany,2021,2.5,-0.22,59.16,69735.43,Europe
+Germany,2022,2.74,1.59,59.11,71386.04,Europe
+Japan,1991,6.27,1.24,58.93,39237.83,Asia
+Japan,1992,4.09,6.34,58.92,41978.38,Asia
+Japan,1993,3.01,3.05,59.43,43823.25,Asia
+Japan,1994,4.86,-4.54,59.6,42267.2,Asia
+Japan,1995,4.53,2.49,60.18,44043.48,Asia
+Japan,1996,2.9,7.21,60.46,47638.48,Asia
+Japan,1997,4.29,-0.86,60.53,47387.56,Asia
+Japan,1998,3.76,2.58,59.9,48723.84,Asia
+Japan,1999,3.66,-1.28,59.36,47279.51,Asia
+Japan,2000,2.5,3.87,59.33,49034.54,Asia
+Japan,2001,2.5,-0.99,58.96,48402.87,Asia
+Japan,2002,3.49,-3.95,59.23,47077.18,Asia
+Japan,2003,2.5,5.4,58.93,50047.16,Asia
+Japan,2004,2.5,3.66,58.57,52073.87,Asia
+Japan,2005,2.5,6.14,58.51,55553.08,Asia
+Japan,2006,2.5,2.22,58.76,56975.93,Asia
+Japan,2007,2.5,2.41,58.51,57785.24,Asia
+Japan,2008,2.5,3.55,58.68,58782.22,Asia
+Japan,2009,2.5,5.54,59.18,60590.44,Asia
+Japan,2010,3.94,-2.48,59.23,59274.32,Asia
+Japan,2011,3.26,2.56,59.39,60196.93,Asia
+Japan,2012,3.38,1.75,59.44,60880.89,Asia
+Japan,2013,3.16,2.48,59.39,62288.07,Asia
+Japan,2014,2.51,3.58,59.83,64444.25,Asia
+Japan,2015,2.5,3.19,59.26,66597.6,Asia
+Japan,2016,2.5,3.51,59.01,69333.9,Asia
+Japan,2017,2.5,5.7,58.87,73146.51,Asia
+Japan,2018,2.5,6.58,58.89,77176.57,Asia
+Japan,2019,2.73,-1.27,58.8,76419.67,Asia
+Japan,2020,2.95,-0.89,58.97,74476.73,Asia
+Japan,2021,2.5,8.67,59.13,79988.03,Asia
+Japan,2022,3.2,-0.58,59.41,77604.78,Asia
+Brazil,1991,10.17,-0.81,62.53,52132.51,South America
+Brazil,1992,8.27,7.44,62.84,55869.06,South America
+Brazil,1993,8.46,-0.55,63.16,56406.44,South America
+Brazil,1994,7.96,2.15,63.06,56677.97,South America
+Brazil,1995,7.39,2.56,62.95,58059.55,South America
+Brazil,1996,8.25,-2.7,63.38,56502.91,South America
+Brazil,1997,7.3,4.0,63.16,58905.0,South America
+Brazil,1998,8.77,0.04,63.24,58316.79,South America
+Brazil,1999,10.12,-1.96,63.44,57432.34,South America
+Brazil,2000,10.31,-1.48,63.09,57241.2,South America
+Brazil,2001,11.03,0.86,63.26,57577.63,South America
+Brazil,2002,8.19,6.08,63.02,60870.89,South America
+Brazil,2003,7.15,5.31,63.14,63053.98,South America
+Brazil,2004,6.37,0.85,63.53,63339.49,South America
+Brazil,2005,6.13,3.97,63.52,66326.14,South America
+Brazil,2006,5.8,1.25,63.55,67196.71,South America
+Brazil,2007,4.87,2.52,64.12,68483.33,South America
+Brazil,2008,3.84,3.01,63.45,71242.26,South America
+Brazil,2009,2.5,2.97,63.25,72235.31,South America
+Brazil,2010,2.5,3.11,63.62,73573.64,South America
+Brazil,2011,3.54,-2.52,64.14,71781.99,South America
+Brazil,2012,2.5,5.23,64.12,75875.31,South America
+Brazil,2013,2.5,1.13,64.33,76281.43,South America
+Brazil,2014,3.04,-0.51,64.41,75154.12,South America
+Brazil,2015,2.5,3.48,64.61,77780.31,South America
+Brazil,2016,2.5,1.46,64.68,78896.73,South America
+Brazil,2017,2.5,7.56,64.28,86507.68,South America
+Brazil,2018,4.37,-3.45,64.03,84741.39,South America
+Brazil,2019,4.13,1.74,64.04,86132.67,South America
+Brazil,2020,2.71,3.7,64.19,88405.51,South America
+Brazil,2021,2.5,0.19,64.16,89660.72,South America
+Brazil,2022,2.5,-0.11,63.83,89209.63,South America

@@ -1,13 +1,12 @@
-# Global Labor Projects: Okun's Law & Unemployment Forecasting
+# Global Labor: Okun's Law + Unemployment Forecasting
 
-Two reproducible research projects built from a country–year panel (1991–2022):
-- **`okun-law/`** — Estimate Okun’s coefficient (Δunemployment vs. GDP growth) by country and group.
-- **`unemployment-forecast/`** — Forecast unemployment with **calibrated** prediction intervals (split conformal).
+Side project. Two small modeling demos on a country–year panel (1991–2022).
 
-**Data**: A copy of your CSV is included in each project under `data/raw/`.  
-**Environment**: plain `pip` + Jupyter (no Docker/conda needed).
+**Folders**
+- `okun-law/` — Estimate Okun’s coefficient (Δ unemployment vs GDP growth) with a quick OLS using country fixed effects.
+- `unemployment-forecast/` — Fit simple per‑country time‑series baselines and plot forecasts.
 
-## Quickstart
+**Quickstart**
 ```bash
 python -m venv .venv && source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
@@ -17,15 +16,20 @@ jupyter notebook okun-law/notebooks/01_eda_okun.ipynb
 jupyter notebook unemployment-forecast/notebooks/02_forecast_models.ipynb
 ```
 
-## Reproducibility
-- Deterministic splits & seeds where applicable.
-- Minimal pinned dependencies in `requirements.txt`.
-- Lightweight tests under `tests/` (schema & citation smoke checks).
+**Data**
+- A tiny sample CSV is included at `<project>/data/raw/labor_panel_sample.csv` so everything runs out of the box.
+- Replace it with your own panel when ready. Expected columns:
+  - `country`, `year`, `unemployment_rate`, `gdp_growth`, `labor_force_participation`, `gdp_per_capita`, `region`
+- Years are integers. Rates are percentages.
 
-## Notes on methods
-The Okun notebook fits a **baseline** fixed-effects OLS with robust (HC1) standard errors; Driscoll–Kraay SEs and dynamic panel (Arellano–Bond) are listed as **optional extensions** in the README, not required to run the baseline.
+**Make targets**
+```bash
+make install        # create venv and install deps
+make okun           # run Okun’s-law script and save outputs under okun-law/reports/
+make forecast       # run forecasting script and save outputs under unemployment-forecast/reports/
+make clean          # remove generated reports
+```
 
-## Key references
-See each project's README for live links and full references (ILO, WDI, IMF WEO, PWT, Okun literature, conformal prediction).
-
-_Generated 2025-09-17_
+**Notes**
+- Methods are intentionally lightweight and non‑authoritative.
+- Feel free to tweak formulas, models, and plots.

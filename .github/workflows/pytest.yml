@@ -28,14 +28,11 @@ jobs:
           if [ -f requirements-dev.txt ]; then pip install -r requirements-dev.txt; fi
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
           pip install pytest
       - name: Lint data
         run: |
             python tools/lint_data.py okun-law/data/raw/labor_panel_sample.csv
 =======
-=======
->>>>>>> parent of 1dd2c06 (Update pytest.yml)
 =======
 >>>>>>> parent of 1dd2c06 (Update pytest.yml)
           # Ensure pytest is available even if not listed
@@ -46,9 +43,6 @@ jobs:
           PY
 
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 1dd2c06 (Update pytest.yml)
-=======
 >>>>>>> parent of 1dd2c06 (Update pytest.yml)
 =======
 >>>>>>> parent of 1dd2c06 (Update pytest.yml)

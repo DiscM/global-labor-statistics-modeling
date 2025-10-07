@@ -22,8 +22,4 @@ jobs:
           pytest -q
           code=$?
           if [ "$code" -eq 5 ]; then echo "No tests collected. Skipping."; exit 0; fi
-<<<<<<< HEAD
           exit "$code"
-=======
-          exit "$code"
->>>>>>> 4258880c074a8ad5a58bd2d13fe8ca9c24ec4d43
